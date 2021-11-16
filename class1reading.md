@@ -12,7 +12,7 @@ _###### use to make the 6th and final header
 
 -You can also insert a photo into a website using markdown by using syntax ![This is an image](Link to Image)
 
--Adding a website link goes as follows [Website Name](Link to website).
+-Adding a website link goes as follows [Website Name](Link to website).e.g [ESPN](https://www.espn.com/)
 
 -We now know markdown are used to simplify HTML usage.
 
