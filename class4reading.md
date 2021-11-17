@@ -1,4 +1,4 @@
-Notes on Wireframe,HTML and Semantics
+Read 04 - Structure web pages with html
 
 What is Wireframe? Wireframing is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product.
 
@@ -55,3 +55,11 @@ Unordered lists are for lists where the order of the items doesn't matter, such 
 Ordered lists are for lists where the order of the items does matter, such as a recipe. These are wrapped in an <ol> element.
 
 anchor <a>href=</a> to add a link
+
+Semantics:
+
+In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+<h1>This is a top level heading</h1>
+
+there are more example of semantics example header ,footer etc
