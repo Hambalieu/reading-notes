@@ -19,3 +19,8 @@ In my own opinion growth mindset should be part of our way of thinking on a **da
 [class6reading](https://hambalieu.github.io/reading-notes/class6reading)
 
 [class7reading](https://hambalieu.github.io/reading-notes/class7reading)
+
+
+[class8reading](https://hambalieu.github.io/reading-notes/class8reading)
+
+
