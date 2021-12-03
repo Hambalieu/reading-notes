@@ -133,16 +133,7 @@ When you use JavaScript in
 the browser, there is a part of 
 the browser that is called an 
 interpreter (or scripting engine). 
-4 0 THE ABC OF PROGRA MMING 
-The interpreter takes your 
-instructions (in JavaScript) and 
-translates them into instructions 
-the browser can use to achieve 
-the tasks you want it to perform. 
-In an interpreted programming 
-language, like JavaScript. each 
-line of code is translated 
-one-by-one as the script is run.
+
 
 
 
