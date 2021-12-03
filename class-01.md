@@ -146,7 +146,7 @@ one-by-one as the script is run.
 
 
 
-- For more infomation [lease check out the below links]:
+- For more infomation regarding these topics [lease check out the below links]:
 
 (HTML and CSS)[file:///C:/Users/Admin/Downloads/ducketts%20HTML%20&%20CSS.pdf]
 
