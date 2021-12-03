@@ -74,7 +74,7 @@ that the page still works if the
 user cannot load or run the 
 JavaScript. You can also reuse 
 the code on several pages 
-(making the site fast
+(making the site work faster).
 
 
 
