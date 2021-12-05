@@ -14,7 +14,7 @@ about the content of that element.
 - Attributes require a name and a value.
 - To learn HTML you need to know what tags are 
 available for you to use, what they do, and where they 
-can go
+can go.
 
 
  ### > DOCTYPES tell browsers which version of HTML you are using.
@@ -137,7 +137,7 @@ interpreter (or scripting engine).
 
 
 
-- For more information on the above topics please check out the links below:
+- For more information on the above topics please checkout the links below for reference:
 
 (HTML and CSS)[file:///C:/Users/Admin/Downloads/ducketts%20HTML%20&%20CSS.pdf]
 
