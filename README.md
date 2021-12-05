@@ -38,3 +38,5 @@ In my own opinion growth mindset should be part of our way of thinking on a **da
 13. [*class13*](Class 13 Notes)
 14. [*class14*](Class 14 Notes)
 15. [*class5*](Class 15 Notes)
+
+day one notes
