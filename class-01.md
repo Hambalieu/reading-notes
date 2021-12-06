@@ -139,7 +139,7 @@ interpreter (or scripting engine).
 
 - For more information on the above topics please checkout the links below for reference:
 
-[HTML and CSS](file:///C:/Users/Admin/Downloads/ducketts%20HTML%20&%20CSS.pd)
-
-[JavaScript](file:///C:/Users/Admin/Downloads/JavaScript%20and%20JQuery%20-%20Interactive%20Front-End%20Web%20Development.1118531647.pdf)
+[HTML](https://www.w3schools.com/html/default.asp)
+[CSS](https://www.w3schools.com/css/default.asp)
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript#for_complete_beginners)
 

@@ -23,7 +23,7 @@ In my own opinion growth mindset should be part of our way of thinking on a **da
 **Below is a table content for my reading notes for code 201 class**
 
 ## Table of Content 
-1. [*class1*](Class 1 Notes)
+1. [*class1*](https://github.com/Hambalieu/reading-notes/blob/main/class-01.md)
 2. [*class2*](Class 2 Notes)
 3. [*class3*](Class 3 Notes)
 4. [*class4*](Class 4 Notes)
