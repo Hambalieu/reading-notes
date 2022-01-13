@@ -1,35 +1,35 @@
 # Notes for my *Code 301 - Intermediate Software Development*.
 
 
-### Below is a table content for my reading notes for code 201 class.
+### Below is the table contents for my reading notes for my codeFellow 301 classes.
 
-#### Table of Content:
-[class1](class-01-reading.md)
+## Table of Contents:
+[class 1](class-01-reading.md)
 
-[class2](Class 2 Notes)
+[class 2](class-02-reading.md)
 
-[class3](Class 3 Notes)
+[class 3]()
 
-[class4](Class 4 Notes)
+[class 4]()
 
-[class5](Class 5 Notes)
+[class 5]()
 
-[class6](Class 6 Notes)
+[class 6]()
 
-[class7](Class 7 Notes)
+[class 7]()
 
-[class8](Class 8 Notes)
+[class 8]()
 
-[class9](Class 9 Notes)
+[class 9]()
 
-[class10](Class 10 Notes)
+[class 10]()
 
-[class11](Class 11 Notes)
+[class 11]()
 
-[class12](Class 12 Notes)
+[class 12]()
 
-[class13](Class 13 Notes)
+[class 13]()
 
-[class14](Class 14 Notes)
+[class 14]()
 
-[class15](Class 15 Notes)
+[class 15]()
