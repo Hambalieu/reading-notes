@@ -8,7 +8,7 @@
 
 [class 2](class-02-reading.md)
 
-[class 3]()
+[class 3](class-03-reading.md)
 
 [class 4]()
 
