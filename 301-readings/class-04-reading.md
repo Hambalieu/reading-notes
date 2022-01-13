@@ -8,8 +8,10 @@
 
 
 - Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
+ >Storing user responses in a form as they are written rather than on submission allows for dynamic rendering for each input.
 
 - How do we target what the user is entering if we have an event handler on an input field?
+> User input can be targeted as a state of the component and invoked as properties of the component eig using  **this.state.value**.
 
  **The Conditional (Ternary) Operator Explained**
 
@@ -25,7 +27,7 @@
   console.log(false);
 }
 - solution :
-x===y ? value if true : value if false
+x===y ? console.log(true) : console.log(false);
 
 
 
