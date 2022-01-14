@@ -12,7 +12,7 @@
 
 [class 4](class-04-reading.md)
 
-[class 5]()
+[class 5](class-04-reading.md)
 
 [class 6]()
 
