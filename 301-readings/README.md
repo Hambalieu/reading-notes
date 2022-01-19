@@ -16,9 +16,9 @@
 
 [class 6](class-06-reading.md)
 
-[class 7]()
+[class 7](class-07-reading.md)
 
-[class 8]()
+[class 8](class-08-reading.md)
 
 [class 9]()
 
