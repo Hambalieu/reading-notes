@@ -56,8 +56,10 @@ Given the same inputs, always returns the same output, and Has no side-effects.
 
 ## References/Citations
 
-[Functional Programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa))
+[Functional Programming](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 </br></br>
 
 
 [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+- I would like to learn more about Node Js.
