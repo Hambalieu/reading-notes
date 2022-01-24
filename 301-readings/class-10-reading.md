@@ -92,7 +92,7 @@
 - A Debugger is used to identify coding errors at various development stages.
 
 </br></br>
-- 
+
 ## References/Citations
 
 [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
