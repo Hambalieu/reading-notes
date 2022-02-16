@@ -1,9 +1,9 @@
-# Notes for my *Code 301 - Intermediate Software Development*.
+# Notes for my *Code 301 - Intermediate Software Development*
 
+## Below is the table contents for my reading notes for my codeFellow 301 classes
 
-### Below is the table contents for my reading notes for my codeFellow 301 classes.
+## Table of Contents
 
-## Table of Contents:
 [class 1](class-01-reading.md)
 
 [class 2](class-02-reading.md)
@@ -26,10 +26,8 @@
 
 [class 11](class-11-reading.md)
 
-[class 12]()
+[class 12](class-12-reading.md)
 
-[class 13]()
+[class 13](class-13-reading.md)
 
-[class 14]()
-
-[class 15]()
+[class 15](class-15-reading.md)
