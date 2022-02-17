@@ -16,8 +16,6 @@
 
 - In our country, there are groups of students who chronically underperform, for example, children in inner cities, or children on Native American reservations. And they've done so poorly for so long that many people think it's inevitable. But when educators create growth mindset classrooms steeped in yet, equality happens
 
-<br></br>
-
 ### References/Citations
 
 - [Bias Self-Assessment](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf)
