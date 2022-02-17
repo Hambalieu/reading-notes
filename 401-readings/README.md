@@ -5,5 +5,6 @@
 ## Table of Contents
 
 1. [growth-Mindset](growth-mindset.md)
-2. [sql-practicepractice](sql-practice.md)
+2. [sql-practice](sql-practice.md)
+3. [Terminal-practice](terminal.md)
 
