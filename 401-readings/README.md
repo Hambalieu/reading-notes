@@ -14,4 +14,5 @@
 8.[Linked Lists](class-05-reading.md)
 9.[Inheritance and Interfaces](class-06-reading.md)
 10.[OO Design](class-08-reading.md)
+10.[WRRC AND Java](class-09-reading.md)
 
