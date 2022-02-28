@@ -7,4 +7,5 @@
 1. [growth-Mindset](growth-mindset.md)
 2. [sql-practice](sql-practice.md)
 3. [Terminal-practice](terminal.md)
+4. [Java Basics](class-01-reading.md)
 
