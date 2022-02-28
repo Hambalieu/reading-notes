@@ -12,4 +12,5 @@
 4. [Maps,primitive,file](class-03-reading.md)
 4. [OPP](class-04-reading.md)
 5. [Linked Lists](class-05-reading.md)
+5. [Inheritance and Interfaces](class-06-reading.md)
 
