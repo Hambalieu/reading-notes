@@ -15,4 +15,5 @@
 9.[Inheritance and Interfaces](class-06-reading.md)
 10.[OO Design](class-08-reading.md)
 10.[WRRC AND Java](class-09-reading.md)
+10.[Stacks AND Queues ](class-10-reading.md)
 
