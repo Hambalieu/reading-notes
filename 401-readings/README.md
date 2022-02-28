@@ -8,4 +8,6 @@
 2. [sql-practice](sql-practice.md)
 3. [Terminal-practice](terminal.md)
 4. [Java Basics](class-01-reading.md)
+4. [Array Loops Import](class-02-reading.md)
+5. 
 
