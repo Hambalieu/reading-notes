@@ -17,4 +17,6 @@
 10.[WRRC AND Java](class-09-reading.md)
 10.[Stacks AND Queues ](class-10-reading.md)
 10.[Spring](class-11-reading.md)
+10.[Spring RESTful Routing & Static Files](class-12-reading.md)
+10.[Related Resources and Integration Testing](class-13-reading.md)
 
