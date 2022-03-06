@@ -37,7 +37,11 @@
 
 ##Reference and Citation:
 [Related data in Spring (only read section “3. One-to-Many Relationship”)](https://www.baeldung.com/spring-data-rest-relationships)
+
 [Baeldung: Spring Integration Testing](https://www.baeldung.com/integration-testing-in-spring)
+
 [One-to-One Relationship Blog](https://attacomsian.com/blog/spring-data-jpa-one-to-one-mapping#:~:text=A%20one%2Dto%2Done%20relationship,of%20B%2C%20and%20vice%20versa.)
+
 [One-to-Many Relationship Blog](https://attacomsian.com/blog/spring-data-jpa-one-to-many-mapping)
+
 [Many-to-Many Relationship Blog](https://attacomsian.com/blog/spring-data-jpa-many-to-many-mapping)
