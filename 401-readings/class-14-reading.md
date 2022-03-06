@@ -59,7 +59,9 @@ output: d1e8a70b5ccab1dc2f56bbf7e99f064a660c08e361a35751b9c483c88943d082
 - uses a Key Factor and is able to adjust the cost of hashing.
 - with key factor changes, the hash output can be influenced.
 - bcrypt is extremely resistant to hacks, especially the type of password cracking called rainbow table.
+
 ##Reference and Citations:
+
 [Intro to password hashing](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/)
 
 [bcrypt overview](https://medium.com/@danboterhoven/why-you-should-use-bcrypt-to-hash-passwords-af330100b861) 
