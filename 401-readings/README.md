@@ -20,5 +20,6 @@
 14. [Spring RESTful Routing & Static Files](class-12-reading.md)         
 15. [Related Resources and Integration Testing](class-13-reading.md)              
 16. [BCrypt](class-14-reading.md)                             
-17. [Trees](class-15-reading.md)           
+17. [Trees](class-15-reading.md)         
+18. [Spring Authentication](class-16-reading.md)            
 
