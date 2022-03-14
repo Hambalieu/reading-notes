@@ -41,4 +41,4 @@ public class WebSocketConfig extends AbstractWebSocketMessageBrokerConfigurer {
 
 ## Reference and Citation:
 [Pure Functional Programming from Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)       
-[Intro to websockets with Spring](hhttps://www.baeldung.com/websockets-spring)
+[Intro to websockets with Spring](https://www.baeldung.com/websockets-spring)
