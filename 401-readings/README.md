@@ -23,4 +23,5 @@
 17. [Trees](class-15-reading.md)         
 18. [Spring Authentication](class-16-reading.md)            
 18. [Spring Authorization](class-17-reading.md)            
+18. [Web App Security](class-18-reading.md)            
 
