@@ -22,4 +22,5 @@
 16. [BCrypt](class-14-reading.md)                             
 17. [Trees](class-15-reading.md)         
 18. [Spring Authentication](class-16-reading.md)            
+18. [Spring Authorization](class-17-reading.md)            
 
