@@ -24,4 +24,5 @@
 18. [Spring Authentication](class-16-reading.md)            
 18. [Spring Authorization](class-17-reading.md)            
 18. [Web App Security](class-18-reading.md)            
+18. [Spring Sockets and Functional Programming](class-19-reading.md)            
 
