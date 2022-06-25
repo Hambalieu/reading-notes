@@ -58,6 +58,6 @@ So a single Hexadecimal digit can show 16 different values instead of the normal
 Hexadecimal:	0	1	2	3	4	5	6	7	8	9	A	B	C	D	E	F
 
 ## Reference and Citations
-[Object and Class](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
-[Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
-[Binary,Decimal and Hexadecimal Numbers](https://www.mathsisfun.com/binary-decimal-hexadecimal.html)
+[Object and Class](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)          
+[Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)             
+[Binary,Decimal and Hexadecimal Numbers](https://www.mathsisfun.com/binary-decimal-hexadecimal.html)           
