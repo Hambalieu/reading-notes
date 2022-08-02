@@ -52,6 +52,6 @@
 
 
 ## Reference and Citation
-[Java Primitives versus Objects](https://www.baeldung.com/java-primitives-vs-objects)
-[Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/summary.html)
-[File I/O scanner stream](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)
+[Java Primitives versus Objects](https://www.baeldung.com/java-primitives-vs-objects)          
+[Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/summary.html)          
+[File I/O scanner stream](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)                   
