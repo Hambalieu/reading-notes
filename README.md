@@ -11,6 +11,6 @@
 
 - ## [Code 401 - Advanced Software Development](https://github.com/Hambalieu/reading-notes/tree/main/401-readings)
 
-- ## [Meta Professional Frontend Certification](https://github.com/Hambalieu/reading-notes/tree/main/backend-Readings)
+- ## [Meta Professional Frontend Certification](https://github.com/Hambalieu/reading-notes/tree/main/frontend-Readings)
 
 - ## [Meta Prefessional Backend Certification](https://github.com/Hambalieu/reading-notes/tree/main/frontend-Readings)
